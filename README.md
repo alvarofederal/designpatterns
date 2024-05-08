@@ -1,7 +1,11 @@
 Implementação de Padrões de Projeto para guia prático
+
 O código desse projeto contempla os seguintes padrões:
+
 -Abstract Factory;
+
 -Adapter;
+
 -Bridge;
 -Builder;
 -Chain of Responsability;
